@@ -1,0 +1,2 @@
+a simple react application with data fetch and showing data to bookmark section using useEffect function.
+also there is functions that set data to local storage and pull data from local storage to show to the bookmark section and read time section.
